@@ -49,7 +49,7 @@
 <body>
   <h1>Chị ơi! Có ai đó gửi chị một lá thư 💌</h1>
   <p>Ấn vào nút dưới đây để mở thư nhé!</p>
-  <button class="open-btn" onclick="window.location.href='Letter.html'">Mở thư 💌</button>
+  <button class="open-btn" onclick="window.location.href='Letter1.html'">Mở thư 💌</button>
   <br>
   <img src="https://media.tenor.com/GPv8Ae_aac8AAAAi/letter.gif" alt="Thư bay đến chị!">
 </body>
